@@ -3,7 +3,7 @@
 
 name: Java CI with Maven
 
-onee:
+on:
   push:
     branches: [ master ]
   pull_request:
